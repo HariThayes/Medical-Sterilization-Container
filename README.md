@@ -1,1 +1,2 @@
-In this project, the modelling sub-team desgined a sterilization container to transport a medical tool from one location to another while sterilizing the tool.
+In this project, I created a medical sterilization container to secure medical tools on CAD Software. Mechanical drawings and physical prototypes were utilized to create an innovative product.
+
